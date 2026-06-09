@@ -1,0 +1,28 @@
+
+===== ATM MENU =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 3
+Enter amount to withdraw: ?2000
+?2000.0 withdrawn successfully.
+Current Balance: ?3000.0
+
+===== ATM MENU =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 1
+Current Balance: ?3000.0
+
+===== ATM MENU =====
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Enter your choice: 4
+Thank you for using the ATM!
+
+=== Code Execution Successful ===
